@@ -8,3 +8,4 @@ RUN apt-get install -y texlive-latex-recommended
 RUN apt-get install -y texlive-bibtex-extra
 RUN apt-get install -y texlive-latex-extra
 RUN apt-get install -y texlive-extra-utils
+RUN apt-get install -y chktex
